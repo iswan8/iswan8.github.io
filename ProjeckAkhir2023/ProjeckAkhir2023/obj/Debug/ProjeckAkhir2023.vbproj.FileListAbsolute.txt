@@ -1,0 +1,109 @@
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.AssemblyReference.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.SuggestedBindingRedirects.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Form1.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormUtama.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Resources.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.GenerateResource.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.CoreCompileInputs.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe.config
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormDataBarang.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormBiodata.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormAdmin.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe.config
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.AssemblyReference.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.SuggestedBindingRedirects.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Form1.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormAdmin.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormBiodata.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormDataBarang.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormUtama.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Resources.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.GenerateResource.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.CoreCompileInputs.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan 1\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe.config
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.AssemblyReference.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.SuggestedBindingRedirects.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Form1.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormAdmin.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormBiodata.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormDataBarang.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormUtama.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Resources.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.GenerateResource.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.CoreCompileInputs.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan2\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe.config
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.AssemblyReference.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.SuggestedBindingRedirects.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Form1.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormAdmin.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormBiodata.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormDataBarang.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormUtama.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Resources.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.GenerateResource.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.CoreCompileInputs.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormUser.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan3\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Formliathasil.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe.config
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.AssemblyReference.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.SuggestedBindingRedirects.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Form1.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormAdmin.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormBiodata.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormDataBarang.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Formliathasil.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormUser.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormUtama.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Resources.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.GenerateResource.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.CoreCompileInputs.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan4\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe.config
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\bin\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.AssemblyReference.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.SuggestedBindingRedirects.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Form1.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormAdmin.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormBiodata.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormDataBarang.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Formliathasil.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormUser.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.FormUtama.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Resources.resources
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.GenerateResource.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.vbproj.CoreCompileInputs.cache
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.exe
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.xml
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.pdb
+D:\PRAKTIKUM VISUAL\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023perbaikan5\ProjeckAkhir2023\ProjeckAkhir2023\obj\Debug\ProjeckAkhir2023.Formhasilbeli.resources

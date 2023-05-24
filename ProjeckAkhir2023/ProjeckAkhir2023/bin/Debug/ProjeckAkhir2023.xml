@@ -1,0 +1,376 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ProjeckAkhir2023
+</name>
+</assembly>
+<members>
+<member name="T:ProjeckAkhir2023.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources._3a8a1fd5_e4a3_40ca_bed8_5c56c55d89a6">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources._401176">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources._me">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources._next">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.Abstract_Clock_Logo">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.Abstract_Clock_Logo1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.admin">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.admin1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.admin2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.back_arrow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.back_arrow__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.backward">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.cart__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.clear">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.clear1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.create_folder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.data_show">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.delete">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.desktop_wallpaper_green_blue_violet_gradient_8k_8k_background_and_blue_color">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.download">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.download__1__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.download__1__removebg_preview__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.download__2__removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.download__3_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.download__3_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.download_logo_orang_2_transformed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.download_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.home">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.home1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.home2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.icons8_instagram_48">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.icons8_instagram_481">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.images">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.images1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.images2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.images21">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.images22">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.images23">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.images3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.images4">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.kisspng_shopping_cart_logo_shopping_bags_trolleys_5afb65b09c72d4_3564791415264250086408">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.login">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.login_icon_1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.login_icon_11">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.login_icon_12">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.login_icon_13">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.logo_Y4JHYEM8W_transformed">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.logo_Y4JHYEM8W_transformed1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.logout">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.logout1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.me1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.me2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.money">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.money_sack">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.money_sack__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.money_sack1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.next__1_">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.NicePng_chen_png_3026464">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.pexels_javon_swaby_2783873">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.search">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.tumblr_orcfqncM2y1v4zbe1o8_500">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.tumblr_orcfqncM2y1v4zbe1o8_5001">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.update">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.user">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.user1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.user2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.watch_luxury_watches_rolex_wallpaper_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.WhatsApp_Image_2023_05_02_at_00_14_35">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.WhatsApp_Image_2023_05_02_at_00_14_35_removebg_preview">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ProjeckAkhir2023.My.Resources.Resources.zyro_image">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,404 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B89530EC-07EF-4853-A29C-4A02A8B7E39F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>ProjeckAkhir2023.My.MyApplication</StartupObject>
+    <RootNamespace>ProjeckAkhir2023</RootNamespace>
+    <AssemblyName>ProjeckAkhir2023</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>ProjeckAkhir2023.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>ProjeckAkhir2023.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAdmin.Designer.vb">
+      <DependentUpon>FormAdmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormAdmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormBiodata.Designer.vb">
+      <DependentUpon>FormBiodata.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormBiodata.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormDataBarang.Designer.vb">
+      <DependentUpon>FormDataBarang.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormDataBarang.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formhasilbeli.Designer.vb">
+      <DependentUpon>Formhasilbeli.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formhasilbeli.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formliathasil.Designer.vb">
+      <DependentUpon>Formliathasil.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Formliathasil.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUser.Designer.vb">
+      <DependentUpon>FormUser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormUser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormUtama.Designer.vb">
+      <DependentUpon>FormUtama.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FormUtama.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAdmin.resx">
+      <DependentUpon>FormAdmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormBiodata.resx">
+      <DependentUpon>FormBiodata.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormDataBarang.resx">
+      <DependentUpon>FormDataBarang.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formhasilbeli.resx">
+      <DependentUpon>Formhasilbeli.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formliathasil.resx">
+      <DependentUpon>Formliathasil.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUser.resx">
+      <DependentUpon>FormUser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormUtama.resx">
+      <DependentUpon>FormUtama.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\app.manifest" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-logo-orang-2-transformed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-Y4JHYEM8W-transformed.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pexels-javon-swaby-2783873.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\watch-luxury-watches-rolex-wallpaper-preview.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-icon-1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-icon-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images3.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\NicePng_chen-png_3026464.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-icon-12.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login-icon-13.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\home2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\data show.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\401176.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\me.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images21.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logo-Y4JHYEM8W-transformed1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abstract Clock Logo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Abstract Clock Logo1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin1.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images22.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\me1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\me2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3a8a1fd5-e4a3-40ca-bed8-5c56c55d89a6.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\desktop-wallpaper-green-blue-violet-gradient-8k-8k-background-and-blue-color.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tumblr_orcfqncM2y1v4zbe1o8_500.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tumblr_orcfqncM2y1v4zbe1o8_5001.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp Image 2023-05-02 at 00.14.35.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-instagram-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zyro-image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\icons8-instagram-481.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WhatsApp_Image_2023-05-02_at_00.14.35-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download__1_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download__1_-removebg-preview %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download__2_-removebg-preview.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\admin2.jpeg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\download %283%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kisspng-shopping-cart-logo-shopping-bags-trolleys-5afb65b09c72d4.3564791415264250086408.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cart %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-sack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-sack %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money-sack1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\money.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-arrow.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back-arrow %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\backward.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\next %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\create-folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\update.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\clear1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout1.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
